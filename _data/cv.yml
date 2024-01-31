@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: BSc in Electrical Engineering
-      institution: Eindhoven University of Technology, Eindhoven, The Netherlands
+      institution: <a href="https://tue.nl">Eindhoven University of Technology</a>, Eindhoven, The Netherlands
       year: 2021 - Present
       description:
         - Following the Automotive Technology Bachelor programme for a degree in Electrical Engineering.
@@ -29,7 +29,7 @@
   type: time_table
   contents:
     - title: Student Mentor
-      institution: Department of Electrical Engineering, Eindhoven University of Technology
+      institution: Department of Electrical Engineering, <a href="https://tue.nl">Eindhoven University of Technology</a>
       year: 2023 - Present
       description:
         - Guiding first-year Automotive Technology students in university transition and study techniques to meet progression requirements.
@@ -38,7 +38,7 @@
         - Completed conversation skills seminar for improved communication.
 
     - title: Engineering Lead
-      institution: Aero Team Eindhoven
+      institution: <a href="https://aeroteameindhoven.nl">Aero Team Eindhoven</a>
       year: 2022 - Present
       description:
         - Collaborating with Aero Team Eindhoven on a battery-powered fixed-wing cargo drone and mid-air battery swap system.
