@@ -21,4 +21,4 @@ Aspiring engineer specializing in electrical engineering and aerospace technolog
 
 Beyond academics, I enjoy puzzle-solving, unraveling complex problems in engineering projects, and exploring languages — my favorite pastimes for mental stimulation and creativity.
 
-I'd be happy to answer any questions you have. Reach out to me via [LinkedIn](https://linkedin.com/pranav-natesh).
+I'd be happy to answer any questions. Connect with me on [LinkedIn](https://linkedin.com/pranav-natesh).
