@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Horsten 83, 5612 AX</p>
+    <p>Office: Horsten 83, 5612 AX</p>
     <p>Eindhoven, The Netherlands</p>
 
 news: false # includes a list of news items
