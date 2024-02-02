@@ -23,6 +23,12 @@
       description:
         - Awarded a Bilingual (English/Dutch) Diploma.
         - Extended Essay in Physics on the Aerodynamic behaviour of an Aerofoil in a self-made wind tunnel. Awarded the highest possible mark of 'A'.
+        | Subjects at Higher Level           | Subjects at Standard Level         |
+        |------------------------------------|------------------------------------|
+        | Mathematics Analysis & Approaches  | Dutch A Language & Literature      |
+        | Physics                            | Business Management                |
+        | English A Language & Literature    | Chemistry                          |
+
 
 - title: Experience
   type: time_table
