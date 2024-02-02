@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 7th of September 2003
     - name: Languages
-      value: English, Dutch, Tamil
+      value: English, Dutch, Tamil, German
 
 - title: Education
   type: time_table
@@ -16,7 +16,6 @@
       year: 2021 - Present
       description:
         - Following the Automotive Technology Bachelor programme for a degree in Electrical Engineering.
-        - Fields of study include Mathematics, Physics, Computer Science.
 
     - title: International Baccalaureate
       institution: Amsterdam International Community School, Amsterdam, The Netherlands
@@ -32,9 +31,9 @@
       institution: Department of Electrical Engineering, Eindhoven University of Technology
       year: 2023 - Present
       description:
-        - Guiding first-year Automotive Technology students in university transition and study techniques to meet progression requirements.
-        - Reviewing Final Electives Programme for alignment with academic goals.
-        - Collaborating with mentors and advisors to enhance support services.
+        - Guiding first-year Automotive Technology students in university transition and study techniques to meet the BSA requirement.
+        - Reviewing Final Electives Programme for alignment with universtiy constraints.
+        - Collaborating with co-mentors and academic advisor to enhance support services.
         - Completed conversation skills seminar for improved communication.
 
     - title: Engineering Lead
@@ -46,12 +45,12 @@
         - Leading engineering efforts, coordinating teams, and managing responsibilities.
         - Proficient in airfoil analysis (XFLR5), STL slicing (Ultimaker Cura), 3D printing, and CAD (SolidWorks, Siemens NX, OnShape).
 
-    - title: Producer
-      institution: Ecological Podcast
+    - title: Lead Producer
+      institution: [Ecological Podcast](https://open.spotify.com/show/6CRFkWIohtkfJiZxLWgGev?si=0843aedaf82042af)
       year: 2019 - 2020
       description:
-        - Led a three-person team in producing a 20-minute podcast series on climate change.
-        - Managed editing and distribution across YouTube, Spotify, and Apple Podcasts.
+        - Coordinated a three-person team in producing a 20-minute podcast series on climate change.
+        - Managed editing with Audacity and distribution across YouTube, Spotify, Apple Podcasts, etc.
 
 - title: Academic Interests
   type: nested_list
@@ -60,6 +59,8 @@
       items:
         - Integrating Electromechanics, Power Electronics, and Control Systems.
     - title: Machine Learning
+      items:
+        - Optimising time-sensitive computations with Machine Learning.
 
 # - title: Open Source Projects
 #   type: time_table
