@@ -27,6 +27,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Teaching Assistant - 5EZB0 Mathematics II
+      institution: Department of Electrical Engineering, Eindhoven University of Technology
+      year: 2024 - Present
+      description:
+          - Aiding students comprehensively with their multivariate calculus assignments.
+          - Specializing in topics including coordinate systems, parameterization, partial derivatives, integrals, and vector fields analysis.
+          - Providing support in a collaborative learning environment.
+
     - title: Student Mentor
       institution: Department of Electrical Engineering, Eindhoven University of Technology
       year: 2023 - Present
