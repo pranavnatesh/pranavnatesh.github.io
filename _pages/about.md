@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: PFP.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office: Horsten 83, 5612AX</p>
