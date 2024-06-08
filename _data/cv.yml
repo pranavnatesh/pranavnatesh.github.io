@@ -6,30 +6,30 @@
     - name: Date of Birth
       value: 7th of September 2003
     - name: Languages
-      value: English, Dutch, Tamil, German
+      value: English, Dutch, Tamil, German, Russian
 
 - title: Education
   type: time_table
   contents:
     - title: BSc in Electrical Engineering
       institution: Eindhoven University of Technology, Eindhoven, The Netherlands
-      year: 2021 - Present
+      year: Sep 2021 - Present
       description:
         - Following the Automotive Technology Bachelor programme for a degree in Electrical Engineering.
 
-    - title: International Baccalaureate
-      institution: Amsterdam International Community School, Amsterdam, The Netherlands
-      year: 2019 - 2021
-      description:
-        - Awarded a Bilingual (English/Dutch) Diploma.
-        - Extended Essay in Physics on the Aerodynamic behaviour of an Aerofoil in a self-made wind tunnel. Awarded the highest possible mark of 'A'.
+    # - title: International Baccalaureate
+    #   institution: Amsterdam International Community School, Amsterdam, The Netherlands
+    #   year: 2019 - 2021
+    #   description:
+    #     - Awarded a Bilingual (English/Dutch) Diploma.
+    #     - Extended Essay in Physics on the Aerodynamic behaviour of an Aerofoil in a self-made wind tunnel. Awarded the highest possible mark of 'A'.
 
 - title: Experience
   type: time_table
   contents:
     - title: Teaching Assistant - 5EZB0 Mathematics II
       institution: Department of Electrical Engineering, Eindhoven University of Technology
-      year: 2024 - Present
+      year: Apr 2024 - Present
       description:
           - Aiding students comprehensively with their multivariate calculus assignments.
           - Specializing in topics including coordinate systems, parameterization, partial derivatives, integrals, and vector fields analysis.
@@ -37,7 +37,7 @@
 
     - title: Student Mentor
       institution: Department of Electrical Engineering, Eindhoven University of Technology
-      year: 2023 - Present
+      year: Aug 2023 - Present
       description:
         - Guiding first-year Automotive Technology students in university transition and study techniques to meet the BSA requirement.
         - Reviewing Final Electives Programme for alignment with university constraints.
@@ -46,19 +46,19 @@
 
     - title: Engineer
       institution: Aero Team Eindhoven, Eindhoven, The Netherlands
-      year: 2022 - Present
+      year: Aug 2022 - Present
       description:
         - Collaborating with Aero Team Eindhoven on a battery-powered fixed-wing cargo drone and mid-air battery swap system.
         - Involved in board meetings, contributing insights, and resolving operational challenges.
         - Leading engineering efforts, coordinating teams, and managing responsibilities.
         - Proficient in airfoil analysis (XFLR5), STL slicing (Ultimaker Cura), 3D printing, and CAD (SolidWorks, Siemens NX, OnShape).
 
-    - title: Lead Producer
-      institution: Ecological Podcast
-      year: 2019 - 2020
-      description:
-        - Coordinated a three-person team in producing a 20-minute podcast series on climate change.
-        - Managed editing with Audacity and distribution across YouTube, Spotify, Apple Podcasts, etc.
+    # - title: Lead Producer
+    #   institution: Ecological Podcast
+    #   year: 2019 - 2020
+    #   description:
+    #     - Coordinated a three-person team in producing a 20-minute podcast series on climate change.
+    #     - Managed editing with Audacity and distribution across YouTube, Spotify, Apple Podcasts, etc.
 
 - title: Academic Interests
   type: nested_list
@@ -67,8 +67,8 @@
       items:
         - Integrating Electromechanics, Power Electronics, and Control Systems.
     - title: Machine Learning
-      items:
-        - Optimising time-sensitive computations with Machine Learning.
+      # items:
+      #   - Optimising time-sensitive computations with Machine Learning.
 
 # - title: Open Source Projects
 #   type: time_table
