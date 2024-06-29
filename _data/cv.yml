@@ -11,9 +11,16 @@
 - title: Education
   type: time_table
   contents:
+    - title: MSc in Electrical Engineering
+      institution: Eindhoven University of Technology, Eindhoven, The Netherlands
+      year: Sep 2024 - Present
+      description:
+        - Specializing in Electromechanics and Power Electronics.
+        - Other fields of interest include Control Systems and Machine Learning.
+
     - title: BSc in Electrical Engineering
       institution: Eindhoven University of Technology, Eindhoven, The Netherlands
-      year: Sep 2021 - Present
+      year: Sep 2021 - Jun 2024
       description:
         - Following the Automotive Technology Bachelor programme for a degree in Electrical Engineering.
 
