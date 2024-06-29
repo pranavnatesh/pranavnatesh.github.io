@@ -23,6 +23,7 @@
       year: Sep 2021 - Jun 2024
       description:
         - Following the Automotive Technology Bachelor programme for a degree in Electrical Engineering.
+        - Bachelor End Project: Feasibility Study of Neural Networks for the Model Predictive Control of DC-DC Converters.
 
     # - title: International Baccalaureate
     #   institution: Amsterdam International Community School, Amsterdam, The Netherlands
@@ -36,7 +37,7 @@
   contents:
     - title: Teaching Assistant - 5EZB0 Mathematics II
       institution: Department of Electrical Engineering, Eindhoven University of Technology
-      year: Apr 2024 - Present
+      year: Apr 2024 - June 2024
       description:
           - Aiding students comprehensively with their multivariate calculus assignments.
           - Specializing in topics including coordinate systems, parameterization, partial derivatives, integrals, and vector fields analysis.
@@ -44,7 +45,7 @@
 
     - title: Student Mentor
       institution: Department of Electrical Engineering, Eindhoven University of Technology
-      year: Aug 2023 - Present
+      year: Aug 2023 - Aug 2024
       description:
         - Guiding first-year Automotive Technology students in university transition and study techniques to meet the BSA requirement.
         - Reviewing Final Electives Programme for alignment with university constraints.
@@ -53,7 +54,7 @@
 
     - title: Engineer
       institution: Aero Team Eindhoven, Eindhoven, The Netherlands
-      year: Aug 2022 - Present
+      year: Aug 2022 - Aug 2024
       description:
         - Collaborating with Aero Team Eindhoven on a battery-powered fixed-wing cargo drone and mid-air battery swap system.
         - Involved in board meetings, contributing insights, and resolving operational challenges.
@@ -67,13 +68,13 @@
     #     - Coordinated a three-person team in producing a 20-minute podcast series on climate change.
     #     - Managed editing with Audacity and distribution across YouTube, Spotify, Apple Podcasts, etc.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Electric Propulsion
-      items:
-        - Integrating Electromechanics, Power Electronics, and Control Systems.
-    - title: Machine Learning
+# - title: Certifications
+#   type: nested_list
+#   contents:
+#     - title: Electric Propulsion
+#       items:
+#         - Integrating Electromechanics, Power Electronics, and Control Systems.
+#     - title: Machine Learning
       # items:
       #   - Optimising time-sensitive computations with Machine Learning.
 
